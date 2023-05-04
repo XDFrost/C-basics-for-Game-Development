@@ -1,0 +1,5 @@
+﻿  App9.cpp
+  Player.cpp
+D:\Basic C++ For Unreal Engine\App9\App9\Player.cpp(15,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  App9.vcxproj -> D:\Basic C++ For Unreal Engine\App9\Debug\App9.exe

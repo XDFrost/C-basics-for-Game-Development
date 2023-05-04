@@ -1,0 +1,3 @@
+﻿  App6.cpp
+D:\Game Development Basics (Unreal Engine 5)\App6\App6\App6.cpp(60,11): warning C4018: '<': signed/unsigned mismatch
+  App6.vcxproj -> D:\Game Development Basics (Unreal Engine 5)\App6\Debug\App6.exe
